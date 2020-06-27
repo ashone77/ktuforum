@@ -1,3 +1,28 @@
+.footer-main-div {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  background: #333;
+  padding: 20px 0px;
+}
+
+.footer-social-icons {
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.footer-social-icons ul{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.footer-social-icons ul li{
+  display: inline-block;
+}
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -43,6 +68,31 @@ ul {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+  }
+
+
+  .footer-main-div {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background: #333;
+    padding: 20px 0px;
+  }
+
+  .footer-social-icons {
+    width: 100%;
+    height: auto;
+    margin: auto;
+  }
+
+  .footer-social-icons ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+  }
+
+  .footer-social-icons ul li{
+    display: inline-block;
   }
 
 
